@@ -1,12 +1,19 @@
 <div align = center>
     
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🦖%20Hyunee%20🎀&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=252&section=header&text=🐯%20Hyunee%20🙃&fontSize=52)
   
   
   
-  🎈 I’m majoring in `statistics` and `software convergence` 🎈
+❖ Major ❖
     
-   🎈 contact : choihyunb05@gmail.com 🎈
+`Department of Information Security`
+    
+
+    
+    
+❖ Contact ❖
+    
+`choihyunb05@gmail.com`
     
  
     
